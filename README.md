@@ -1,15 +1,23 @@
 - 👋 Hi, I’m John
 - 👀 Some of my interests include Data Viz + SQL + Python
 
-- Languages and Data Analytics Tools:
- SQL
- Python
- Microsoft Excel
+<br>
 
-- Data Visualization Tools:
- Microsoft Excel
- Tableau
- Power BI
+# Languages and Data Analytics Tools:
+  - [x] SQL
+  - [x] Python
+  - [x] Microsoft Excel
+  - [x] Javascript
+  - [x] HTML
+
+<br>
+
+# Data Visualization Tools:
+  - [x] Microsoft Excel
+  - [x] Tableau
+  - [x] Power BI
+
+<br>
 
 Work Experience:
 | Company |	Job Title	|	Duration |
