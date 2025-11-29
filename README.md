@@ -1,9 +1,17 @@
-- 👋 Hi, I’m John
-- 👀 Some of my interests include Data Viz + SQL + Python
+# 👋 Hi, I’m John!
+- 📊 Take a peek at some of my Data Viz work & SQL Projects
+- 📈 I'm interested in improving my Cloud and DE skills
+- 🧑‍💼 I'm looking for roles involving SQL & Data Visualization Tools
 
 <br>
 
-# Languages and Data Analytics Tools:
+### Let's connect!
+
+[Talk with me on LinkedIn](https://www.linkedin.com/in/johnnava/)
+
+<br>
+
+### Languages and Data Analytics Tools:
   - [x] SQL
   - [x] Python
   - [x] Microsoft Excel
@@ -12,14 +20,23 @@
 
 <br>
 
-# Data Visualization Tools:
+### Data Visualization Tools:
   - [x] Microsoft Excel
   - [x] Tableau
   - [x] Power BI
 
 <br>
 
-Work Experience:
+### Project Management Tools
+  - [x] Azure DevOps
+  - [x] GitHub
+  - [x] Slack
+  - [x] Miro
+  - [x] Trello
+
+<br>
+
+### Work Experience:
 | Company |	Job Title	|	Duration |
 |:-------|:----------|:---------|
 | Slalom | Associate Consultant | Mar 2022 - Sep 2023 |
