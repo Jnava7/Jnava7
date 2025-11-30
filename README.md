@@ -42,7 +42,7 @@
 | Slalom | Associate Consultant | Mar 2022 - Sep 2023 |
 | Talent Path | Data Analyst | Feb - Sep 2021 |
 | SLB | HR Data Privacy Intern | Jun - Aug 2019 |
-| Wunderman Thompson | Jun - Aug 2018 |
+| Wunderman Thompson | Analyst Intern | Jun - Aug 2018 |
 
 <!---
 Jnava7/Jnava7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
