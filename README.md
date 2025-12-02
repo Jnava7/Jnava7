@@ -1,5 +1,5 @@
 # 👋 Hi, I’m John!
-- 📊 Take a peek at some of my Data Viz work & SQL Projects
+- 📊 Take a peek at some of my Data Viz work & [SQL Projects](https://github.com/Jnava7/SQL_Projects)
 - 📈 I'm interested in improving my Cloud and DE skills
 - 🧑‍💼 I'm looking for roles involving SQL & Data Visualization Tools
 
