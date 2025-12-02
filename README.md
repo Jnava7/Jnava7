@@ -1,7 +1,7 @@
 # 👋 Hi, I’m John!
 - 📊 Take a peek at some of my Data Viz work & [SQL Projects](https://github.com/Jnava7/SQL_Projects)
 - 📈 I'm interested in improving my Cloud and DE skills
-- 🧑‍💼 I'm looking for roles involving SQL & Data Visualization Tools
+- 🧑‍💼 I'm looking for roles involving Data Governance & Data Visualization Tools
 
 
 ### Let's connect!
