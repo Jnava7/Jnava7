@@ -34,6 +34,7 @@
 ### Work Experience:
 | Company |	Job Title	|	Duration |
 |:-------|:----------|:---------|
+| Freelance | Consultant | Jan 2024 - Present |
 | Slalom | Associate Consultant | Mar 2022 - Sep 2023 |
 | Talent Path | Data Analyst | Feb - Sep 2021 |
 | SLB | HR Data Privacy Intern | Jun - Aug 2019 |
