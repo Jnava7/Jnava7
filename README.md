@@ -3,13 +3,11 @@
 - 📈 I'm interested in improving my Cloud and DE skills
 - 🧑‍💼 I'm looking for roles involving SQL & Data Visualization Tools
 
-<br>
 
 ### Let's connect!
 
 [Talk with me on LinkedIn](https://www.linkedin.com/in/johnnava/)
 
-<br>
 
 ### Languages and Data Analytics Tools:
   - [x] SQL
@@ -18,14 +16,12 @@
   - [x] Javascript
   - [x] HTML
 
-<br>
 
 ### Data Visualization Tools:
   - [x] Microsoft Excel
   - [x] Tableau
   - [x] Power BI
 
-<br>
 
 ### Project Management Tools
   - [x] Azure DevOps
@@ -34,7 +30,6 @@
   - [x] Miro
   - [x] Trello
 
-<br>
 
 ### Work Experience:
 | Company |	Job Title	|	Duration |
